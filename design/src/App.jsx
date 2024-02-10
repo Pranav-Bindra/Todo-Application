@@ -1,6 +1,6 @@
 import { RenderTopBar } from "./components/RenderTopBar" 
 import { RenderTodos } from "./components/RenderTodos"
-import backgroundImage from 'C:/0-1 Devs/Week-10/todo-application/design/src/assets/3122977.jpg';
+import backgroundImage from './assets/3122977.jpg';
 import { useState } from "react";
 
 function App() {
